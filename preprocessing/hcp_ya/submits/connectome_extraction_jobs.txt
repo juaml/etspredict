@@ -1,0 +1,8 @@
+
+07/05/2022, 10:32:31
+
+Job is ./run_in_venv.sh ./extract_timeseries.py!
+Submitted?: True
+Submission ID is UHFNR5GEMM
+test
+

@@ -1,0 +1,2 @@
+date,time,command_line,submission_id,message,submitted
+07/05/2022, 10:32:31,./run_in_venv.sh ./extract_timeseries.py,UHFNR5GEMM,check txt,True
